@@ -1,2 +1,2 @@
-# webdevbasic786.gihub.io
+# webdevbasic786.github.io
 The test website for webdevbasic786 for everyone
